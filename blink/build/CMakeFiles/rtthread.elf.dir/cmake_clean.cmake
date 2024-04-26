@@ -39,6 +39,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/rtthread.elf.dir/module/soft_timer/soft_timer.c.obj"
   "CMakeFiles/rtthread.elf.dir/module/soft_timer/soft_timer.c.obj.d"
   "rtthread.elf"
+  "rtthread.elf.manifest"
   "rtthread.elf.pdb"
 )
 

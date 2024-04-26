@@ -36,3 +36,4 @@ JLinkLog.txt
 cmake-build-debug
 *.lst
 *.lnp
+build/*

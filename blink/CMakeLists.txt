@@ -5,7 +5,7 @@ SET(CMAKE_SYSTEM_PROCESSOR cortex-m4)
 #SET(CMAKE_VERBOSE_MAKEFILE ON)
 
 SET(CMAKE_EXPORT_COMPILE_COMMANDS ON)
-# set(CMAKE_MAKE_PROGRAM "C:\\RT-ThreadStudio\\platform\\env_released\\env\\tools\\BuildTools\\2.12-20190422-1053\\bin\\make.exe")
+set(CMAKE_MAKE_PROGRAM "C:\\Program Files (x86)\\GnuWin32\\bin\\make.exe")
 SET(CMAKE_C_COMPILER arm-none-eabi-gcc)
 SET(CMAKE_ASM_COMPILER arm-none-eabi-gcc)
 SET(CMAKE_C_FLAGS " -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -DGD32F407 -Dgcc -O0 -gdwarf-2 -g")

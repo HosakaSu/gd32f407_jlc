@@ -36,3 +36,9 @@ JLinkLog.txt
 cmake-build-debug
 *.lst
 *.lnp
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
